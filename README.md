@@ -8,9 +8,9 @@
    2. This Repository does not intend to spoon feed , it can be used for studying in the right direction , but the efforts should be solely yours .
    
 ## WHY ?
-  If you want to crack the interviews and get into the product based compnies.
+  If you want to crack the interviews and get into the product based componies requirments.
   
-  If you love to solve the real-world complex problems.
+  If you love to solve the real-world complex problems then you implement DSA.
   
 ## WHY C++ ?
   C++ is by far the the most popular language of choice for competitive programmers across the world as it is usually faster than Java and Python, and most of the resources are available in C++. C++ also has a vast library called STL(Standard Template Library) which makes life a lot easier for competitive coders.
